@@ -1,4 +1,4 @@
-<h1>Hey, I'm Jay Guyton, a <a href="https://www.linkedin.com/in/jemarisguyton/">Google Ads Specialist</a>☺</h1>
+<h1>Hey, I'm Jay Guyton, a <a href="https://www.linkedin.com/in/jemarisguyton/">Google Ads Specialist
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
